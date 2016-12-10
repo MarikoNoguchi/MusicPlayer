@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="shamisen">Shamisen</string>
+
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset">RESET</string>
+
+    <string-array
+        name="string_array_font_size">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+</resources>
